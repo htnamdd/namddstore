@@ -1,0 +1,10 @@
+access:
+  preview:
+    allow:
+      - dd.nam@lgepartner.com
+  publish:
+    allow:
+      - dd.nam@lgepartner.com
+  admin:
+    allow:
+      - dd.nam@lgepartner.com
