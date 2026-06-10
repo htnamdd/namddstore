@@ -4,10 +4,8 @@
 # through the Helix API.
 # See: https://www.aem.live/docs/config-service-setup
 mountpoints:
-  /:
-    url: https://content.da.live/htnamdd/namddstore/
-    type: markup
-
+  /: url: https://content.da.live/htnamdd/namddstore/
+  
 # DEPRECATION NOTICE: Folder Mapping is deprecated, but we
 # provide this initial mapping so you can view products quickly.
 # Your real options are:
